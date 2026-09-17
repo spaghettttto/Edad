@@ -13,7 +13,7 @@ tiene_identificacion = st.checkbox(
 )
 
 
-if edad >18:
+if edad >17:
     st.write("Puede ingresar.")
 else:
     st.write("No puede ingresar.")
